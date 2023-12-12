@@ -1,0 +1,109 @@
+#p1 {
+    font-style: italic;
+    font-size: 50px;
+    background-color: rgb(204, 255, 255);
+    height: 100px;
+    width: 95%;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding-top: 25px;
+}
+
+.body-page {
+    color: white;
+    font-size: 30px;
+    background-color: rgb(204, 153, 255);
+    height: 770px;
+    width: 65%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+#p3 {
+    color: white;
+    background-color: rgb(250, 171, 208);
+    height: 700px;
+    width: 65%;
+    display: table-cell;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding-top: 15px;
+}
+
+#span {
+    font-size: 40px;
+    background-color: rgb(143, 103, 252);
+    height: 50px;
+    width: 95%;
+    text-align: center;
+    display: table-cell;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.container{
+    display: flex;
+}
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+ 
+  header {
+    text-align: center;
+    width: 95%;
+    background: linear-gradient(to right, #2196F3, #673AB7);
+    color: white;
+    padding: 10px;
+  }
+ 
+  .container {
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+  }
+ 
+  .left-page {
+    width: 15%;
+    background-color: white;
+  }
+ 
+  .body-page {
+    width: 65%;
+    background-color: #ff98e9;
+    font-weight: bold;
+    padding: 10px;
+  }
+ 
+  .right-page {
+    width: 15%;
+    background-color: white;
+  }
+ 
+  .page-link {
+    display: block;
+    padding: 10px;
+    border: 2px double #000;
+    text-decoration: none;
+    color: #000;
+    background: #ffb45e;
+  }
+ 
+  footer {
+    text-align: center;
+    font-size: xx-small;
+    width: 95%;
+    background: linear-gradient(to right, #2196F3, #673AB7);
+    color: white;
+    padding: 10px;
+  }
+
+
+
